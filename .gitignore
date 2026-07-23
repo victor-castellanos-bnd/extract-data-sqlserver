@@ -1,0 +1,7 @@
+.env
+credentials.json
+credentials_drive.json
+.venv/
+etl_log.txt
+__pycache__/
+*.pyc
